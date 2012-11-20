@@ -1,0 +1,22 @@
+﻿CACHE MANIFEST
+#1353400312
+index.html
+c2runtime.js
+jquery-1.7.1.min.js
+logo.png
+images\tiledbackground.png
+images\spr_player-sheet0.png
+images\spr_bullet-sheet0.png
+images\spr_explosion-sheet0.png
+images\spr_monster-sheet0.png
+images\spr_blood-sheet0.png
+media\shot.m4a
+media\shot.ogg
+media\monstervictory.m4a
+media\monstervictory.ogg
+media\monsterattack.m4a
+media\monsterattack.ogg
+media\bg_shooter.m4a
+media\bg_shooter.ogg
+NETWORK:
+*
